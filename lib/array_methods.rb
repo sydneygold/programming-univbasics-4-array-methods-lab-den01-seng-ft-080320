@@ -3,7 +3,7 @@ array.include?(element)
 end
 
 def using_sort(array)
-array.Sort
+array.sort!
 return array
 end
 
